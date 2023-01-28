@@ -1,5 +1,4 @@
-layout: page
-title: "info"
-permalink: /info
+# caleblam17.github.io
+# h1 Heading
 
-testing 
+**This is bold text**
